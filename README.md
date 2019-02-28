@@ -1,4 +1,4 @@
-# Ockham Explorer 3.0
+# Ockham Explorer 0.1
 
 <p align="center">
     <img src="/banner.png" />
